@@ -74,10 +74,6 @@ SAYS_ROBOCOP
                 BNE  SAYS_ROBOCOP
                 RTS
 
-;                LDA VAR_ec88
-;                BNE SAYS_ROBOCOP
-;                RTS
-
 ;
 ; SAMPLE - Plays a sample  through the volume channel
 ;							  located at: $EC4F-$EC88
